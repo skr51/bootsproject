@@ -1,5 +1,5 @@
 import React from "react";
-import wellcome from "../img/welcome.jpg";
+import Wellcome from "../img/welcome.jpg";
 import video from "../img/video1.png";
 
 
@@ -17,7 +17,7 @@ function Home() {
                 <div className="row ">
 
                     <div className="col-12"  >
-                        <img src={wellcome} className="img-fluid" alt="" />
+                        <img src={Wellcome} className="img-fluid" alt="" />
                     </div> </div>
                 <div className="row">
                     <div className="col-12 bg ">
@@ -37,7 +37,7 @@ function Home() {
             <div className="container-sm pd">
 
 
-                <div className="row  justify-content-around hight-250px ">
+                <div className="row  justify-content-around height-250px ">
 
                     <div className="col-sm-4 img-thumbnail"  >
                         <img src={video} className="img-fluid" alt="" />
@@ -63,19 +63,19 @@ function Home() {
                 <div className="row  justify-content-around ">
 
                     <div className="col-sm-3 bg img-thumbnail">
-                        <img src={wellcome} className="img-fluid" alt="" />
+                        <img src={Wellcome} className="img-fluid" alt="" />
                         <h1 className="download">PLAYBOY</h1>
                         <p>    Demo of Material Design Portfolio Template by TemplateFlip.
                             Click on "Download" button below to download the template</p></div>
                            
                     <div className="col-sm-3 bg img-thumbnail">
-                        <img src={wellcome} className="img-fluid" alt="" />
+                        <img src={Wellcome} className="img-fluid" alt="" />
                         <h1 className="download">PLAYBOY</h1>
                         <p>    Demo of Material Design Portfolio Template by TemplateFlip.
                             Click on "Download" button below to download the template</p></div>
                              
                     <div className="col-sm-3 bg img-thumbnail">
-                        <img src={wellcome} className="img-fluid" alt="" />
+                        <img src={Wellcome} className="img-fluid" alt="" />
                         <h1 className="download">PLAYBOY</h1>
                         <p>    Demo of Material Design Portfolio Template by TemplateFlip.
                             Click on "Download" button below to download the template</p></div>
